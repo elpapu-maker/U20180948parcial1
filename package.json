@@ -1,0 +1,12 @@
+{
+  "name": "node-parcial1",
+  "version": "1.0.0",
+  "description": "parcial1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "author": "U20180948",
+  "license": "ISC"
+}
